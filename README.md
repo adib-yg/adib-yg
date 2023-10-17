@@ -27,6 +27,8 @@
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&textfill=000000&fill=ffc0cd)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=000000&fill=ffc0cd)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&textfill=000000&fill=ffc0cd)](https://discordapp.com/users/adib_yg)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tiktok&textfill=000000&fill=ffc0cd)](https://tiktok.com/adib_yg)
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify&textfill=000000&fill=ffc0cd)
 
 ## Active Repositories
 
