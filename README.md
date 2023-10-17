@@ -6,7 +6,7 @@
 
 [![Adib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adib-yg&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=adib_yg&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")
+![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@adib_yg&v=2&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")
 
 ![Adib's Page Visitors](https://komarev.com/ghpvc/?username=adib-yg&color=AA0055)
 
