@@ -8,7 +8,7 @@
 
 <!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adib_yg)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=${your.username}.${your.repo.id})
+![](https://komarev.com/ghpvc/?username=adib-yg&color=AA0055)
 
 ## Achievements
 
