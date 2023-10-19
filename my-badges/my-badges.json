@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/8a83f62a5617cf52f79e5277759fdd0f256cd6a0\">8a83f62</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/bd9f9809c0091c613e9ef37e8503e2208c7f51c5\">bd9f980</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/9d9757ad4886c6d7a848849c92466e6aeee4460d\">9d9757a</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/a6f540b9bd778b2c5510de4d64ff49610d1f5361\">a6f540b</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/58b853b01e96534956d2bc2f0b851de825c57025\">58b853b</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/ac83b43135b62a816a3263f76e8802e843bf0eee\">ac83b43</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/10825f39cbfe1c998b592fb3e504d7f8eef00ca9\">10825f3</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/8a83f62a5617cf52f79e5277759fdd0f256cd6a0\">8a83f62</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/bd9f9809c0091c613e9ef37e8503e2208c7f51c5\">bd9f980</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/9d9757ad4886c6d7a848849c92466e6aeee4460d\">9d9757a</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/a6f540b9bd778b2c5510de4d64ff49610d1f5361\">a6f540b</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/58b853b01e96534956d2bc2f0b851de825c57025\">58b853b</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/morning-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 99 times)\n2. readme.md (used 84 times)\n3. add (used 28 times)\n4. files (used 18 times)\n5. via (used 18 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 107 times)\n2. readme.md (used 92 times)\n3. add (used 28 times)\n4. files (used 18 times)\n5. via (used 18 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   }
 ]
