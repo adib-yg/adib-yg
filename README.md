@@ -37,4 +37,4 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=SAMP-RGB-Textdraw&theme=radical)](https://github.com/adib-yg/SAMP-RGB-Textdraw)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=SAMP-Mobile-Checker&theme=radical)](https://github.com/adib-yg/SAMP-Mobile-Checker)
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />-->
