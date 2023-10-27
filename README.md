@@ -32,6 +32,9 @@
 
 ## 🗃 Active Repositories
 
+
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=omp-ipc&theme=radical)](https://github.com/adib-yg/omp-ipc)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=openmp-server-installation&theme=radical)](https://github.com/adib-yg/openmp-server-installation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=openmp-server-browser&theme=radical)](https://github.com/adib-yg/openmp-server-browser)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=SAMP-RGB-Textdraw&theme=radical)](https://github.com/adib-yg/SAMP-RGB-Textdraw)
