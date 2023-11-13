@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/adib-yg/MAP-MOVER/commit/c2ffe6e1069d4779c3161f7fef907d704e3650b3">c2ffe6e</a>
-- <a href="https://github.com/adib-yg/adib-yg/commit/af8d20b85ba9504f4c76784461d107f09a4cdba6">af8d20b</a>
-- <a href="https://github.com/adib-yg/openmp-server-installation/commit/c16044a76fc5bd7f35ded97e9c4a6a8e07290c40">c16044a</a>
-- <a href="https://github.com/adib-yg/openmp-server-installation/commit/ad52565eaa978ff780cebc8b0512f0c032df92c4">ad52565</a>
-- <a href="https://github.com/adib-yg/openmp-server-installation/commit/8442307c4855b9e1fb8943f8e1907bc65e825d83">8442307</a>
-- <a href="https://github.com/adib-yg/openmp-server-installation/commit/416ba34c4e029313a25efc4bb3cce42970da8ed2">416ba34</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/a7adc36ef40d1429da6ecce3eb9fb7567f68cc09">a7adc36</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/52bcecae58734c2953c1a24be520e5f2801dbed6">52bceca</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/1370c82c3fff7cd2f7cba428dfeedab74e0d15c0">1370c82</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/c7e0d6043b65f44da79863ff06229b68db9b861a">c7e0d60</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/c4fa3ab6fff0a155fc4a8c81b020e49fb6ee542a">c4fa3ab</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/60b7f2b82eabb085ac8f803f4b4cc2c9286e3e08">60b7f2b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
