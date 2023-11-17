@@ -8,6 +8,8 @@
 
 ![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@adib_yg&v=2&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")
 
+[![wakatime](https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg?style=flat)](https://wakatime.com/@018b3d86-6385-44e4-a635-abc685cc0e38)
+
 ![Adib's Page Visitors](https://komarev.com/ghpvc/?username=adib-yg&color=AA0055)
 
 ## ⚡ Achievements
