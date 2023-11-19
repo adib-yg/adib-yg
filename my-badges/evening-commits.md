@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/0d4fa76ca68f998235b4e01734fd8e554a0381ac">0d4fa76</a>
+- <a href="https://github.com/adib-yg/openmp-server-installation/commit/f8bb4a6b3af19c25e169f14cee8ee0359392f966">f8bb4a6</a>
 - <a href="https://github.com/adib-yg/openmp-server-browser/commit/371ac66ed3ec170bddd6f9d738cbcaab97af646a">371ac66</a>
 - <a href="https://github.com/adib-yg/openmp-server-browser/commit/75a9f93901be04ee57a40b03745d45086188a6f7">75a9f93</a>
 - <a href="https://github.com/adib-yg/openmp-server-browser/commit/fa2664b73dfa020ad42b29febe3260c8f54f2189">fa2664b</a>
 - <a href="https://github.com/adib-yg/openmp-server-browser/commit/411a2664790c95a47abcdf8e427be9c69fa07c7b">411a266</a>
-- <a href="https://github.com/adib-yg/openmp-server-browser/commit/263dfbacf79ee5b64d1690a66a660402bec1ecd1">263dfba</a>
-- <a href="https://github.com/adib-yg/openmp-server-installation/commit/a7adc36ef40d1429da6ecce3eb9fb7567f68cc09">a7adc36</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
