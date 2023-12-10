@@ -2,11 +2,11 @@
 
 ## ✨ GitHub Stats
 
-[![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adib-yg&show_icons=true&theme=radical&show=reviews,prs_merged)](https://github.com/adib-yg/github-readme-stats)
+[![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adib-yg&show_icons=true&theme=radical&show=reviews,prs_merged)](https://wakatime.com/@adib_yg)
 
-[![Adib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adib-yg&theme=radical&layout=donut)](https://github.com/adib-yg/github-readme-stats)
+[![Adib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adib-yg&theme=radical&layout=donut)](https://wakatime.com/@adib_yg)
 
-![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@adib_yg&v=2&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")
+[![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@adib_yg&v=2&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")](https://wakatime.com/@adib_yg)
 
 [![wakatime](https://wakatime.com/badge/user/018b3d86-6385-44e4-a635-abc685cc0e38.svg?style=flat)](https://wakatime.com/@018b3d86-6385-44e4-a635-abc685cc0e38)
 
@@ -28,9 +28,9 @@
 ## 😃 Things I use on a daily basis
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&textfill=000000&fill=ffc0cd)
-![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python&textfill=000000&fill=ffc0cd)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=discord&textfill=000000&fill=ffc0cd)](https://discordapp.com/users/adib_yg)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tiktok&textfill=000000&fill=ffc0cd)](https://tiktok.com/adib_yg)
+[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=telegram&textfill=000000&fill=ffc0cd)](https://telegram.me/adib_yg)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify&textfill=000000&fill=ffc0cd)
 
 ## 🗃 Active Repositories
