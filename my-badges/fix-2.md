@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/adib-yg/openmp-server-browser/commit/0bcb6d65f1c700443a42f6d32a329082e5872400">0bcb6d6</a>: Fix rows icon
-- <a href="https://github.com/adib-yg/openmp-server-browser/commit/0c1d744693a736d57efca35119b944d6e55d1d88">0c1d744</a>: Fix rows icon
+- <a href="https://github.com/adib-yg/web/commit/e8bdb313f446523b3a3d19cd4d3a237eb3972830">e8bdb31</a>: fix other mistakes
+- <a href="https://github.com/adib-yg/web/commit/35b4bd2b01fcca6a8ec0bf87a50ca527ec6a14f9">35b4bd2</a>: fix a tag mistake in parameter description
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
