@@ -4,7 +4,7 @@
 
 [![Adib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adib-yg&show_icons=true&theme=radical&show=reviews,prs_merged)](https://wakatime.com/@adib_yg)
 
-[![Adib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adib-yg&theme=radical&layout=donut)](https://wakatime.com/@adib_yg)
+<!-- [![Adib's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adib-yg&theme=radical&layout=donut)](https://wakatime.com/@adib_yg) -->
 
 [![Adib's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime/?username=@adib_yg&v=2&layout=compact&&theme=radical&link="https://www.github.com/adib-yg/")](https://wakatime.com/@adib_yg)
 
