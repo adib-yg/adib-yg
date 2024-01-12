@@ -33,14 +33,13 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tiktok&textfill=000000&fill=ffc0cd)](https://tiktok.com/adib_yg)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=telegram&textfill=000000&fill=ffc0cd)](https://telegram.me/adib_yg)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify&textfill=000000&fill=ffc0cd)
-
+<!--
 ## 🗃 Active Repositories
-
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=openmp-server-installation&theme=radical)](https://github.com/adib-yg/openmp-server-installation)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=openmp-server-browser&theme=radical)](https://github.com/adib-yg/openmp-server-browser)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=omp-ipc&theme=radical)](https://github.com/adib-yg/omp-ipc)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=SAMP-RGB-Textdraw&theme=radical)](https://github.com/adib-yg/SAMP-RGB-Textdraw)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=SAMP-Mobile-Checker&theme=radical)](https://github.com/adib-yg/SAMP-Mobile-Checker)
-
+-->
 <!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />-->
