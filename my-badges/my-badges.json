@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/b6a0e74f021f0b06e79fd4bdfd21ab5b0cc04788\">b6a0e74</a>\n- <a href=\"https://github.com/adib-yg/web/commit/f6ba489fdfe4010ce84d3597d8f193f08d4c2a80\">f6ba489</a>\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/1ed900c99c09dc764a01a54dc127dd77138c24e5\">1ed900c</a>\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/9ffa7b8c6fd8477d09ff10367fa1ec2933b5f119\">9ffa7b8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/c56333f48a0f950c9bc4cfe54463c05a541c6751\">c56333f</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/0d4fa76ca68f998235b4e01734fd8e554a0381ac\">0d4fa76</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/289cfc3d4ef211b18264c7d044c56c39d9ae75c3\">289cfc3</a>\n- <a href=\"https://github.com/adib-yg/web/commit/7a5a8e573d37befc27892f3649dbbca5dbe0e902\">7a5a8e5</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d14bc36eff63224b3b15b2684c5daa997df8dd34\">d14bc36</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6142c0f8c39653078e724c6720e888e164697544\">6142c0f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/05a6e84989241e67ffebf730c2549da58324135e\">05a6e84</a>\n- <a href=\"https://github.com/adib-yg/web/commit/223b80d3ef8ff735faab207c2691e95a2ebf836e\">223b80d</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 562 times)\n2. add (used 480 times)\n3. update (used 464 times)\n4. readme.md (used 133 times)\n5. python-app.yml (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. * (used 562 times)\n2. add (used 520 times)\n3. update (used 474 times)\n4. readme.md (used 134 times)\n5. python-app.yml (used 27 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -47,5 +47,12 @@
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/adib-yg/web/commit/abd9ed0f5a6f898d080bf65f0058ae8a7bca61fd\"><strong>ab</strong>d9ed0f5a6f898d080bf65f0058ae8a7bca61fd</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/abc-commit/ab-commit.png?raw=true"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/wakatime/notepadpp-wakatime/issues/61\">#61</a>: \"Please enter valid Api Key.\" problem",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
   }
 ]
