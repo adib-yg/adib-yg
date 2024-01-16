@@ -5,8 +5,8 @@
 My favorite commit message words are:
 
 1. * (used 562 times)
-2. add (used 520 times)
-3. update (used 474 times)
+2. update (used 559 times)
+3. add (used 520 times)
 4. readme.md (used 134 times)
 5. python-app.yml (used 27 times)
 
