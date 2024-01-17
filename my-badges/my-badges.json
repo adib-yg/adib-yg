@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/289cfc3d4ef211b18264c7d044c56c39d9ae75c3\">289cfc3</a>\n- <a href=\"https://github.com/adib-yg/web/commit/7a5a8e573d37befc27892f3649dbbca5dbe0e902\">7a5a8e5</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d14bc36eff63224b3b15b2684c5daa997df8dd34\">d14bc36</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6142c0f8c39653078e724c6720e888e164697544\">6142c0f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/05a6e84989241e67ffebf730c2549da58324135e\">05a6e84</a>\n- <a href=\"https://github.com/adib-yg/web/commit/223b80d3ef8ff735faab207c2691e95a2ebf836e\">223b80d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/fc5f1305054219c2d0710fd4eeb77d22e80bc2b0\">fc5f130</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0f086d9561ffc1ed0ce555ff239045c376d49110\">0f086d9</a>\n- <a href=\"https://github.com/adib-yg/web/commit/795182c88dde6aaade7a12dd13f7cdaaccd13212\">795182c</a>\n- <a href=\"https://github.com/adib-yg/web/commit/78efa4bd64a6cad1a6a4f12f05112f643a185825\">78efa4b</a>\n- <a href=\"https://github.com/adib-yg/web/commit/1a7749442c86a998d47af04dd3d17a4aa7922e00\">1a77494</a>\n- <a href=\"https://github.com/adib-yg/web/commit/7bba8f33dff4b533e9147eb608982d78eb82f832\">7bba8f3</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 562 times)\n2. update (used 559 times)\n3. add (used 520 times)\n4. readme.md (used 134 times)\n5. python-app.yml (used 27 times)",
+    "body": "My favorite commit message words are:\n\n1. * (used 732 times)\n2. update (used 664 times)\n3. add (used 528 times)\n4. readme.md (used 134 times)\n5. python-app.yml (used 27 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
