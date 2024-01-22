@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. * (used 732 times)
-2. update (used 684 times)
+2. update (used 685 times)
 3. add (used 536 times)
 4. readme.md (used 136 times)
-5. merge (used 29 times)
+5. merge (used 30 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
