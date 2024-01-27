@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/adib-yg/web/commit/cc360c873f8b4daf53d567c805fd375317d079dd">cc360c8</a>
-- <a href="https://github.com/adib-yg/web/commit/d95e5d846aeb001b76709d04d22ce017c40ee766">d95e5d8</a>
-- <a href="https://github.com/adib-yg/web/commit/f18c8ef311d7d42fdf997d3e006de846eef12b56">f18c8ef</a>
-- <a href="https://github.com/adib-yg/web/commit/5a2539b351c878db65153a68bc80bad44bac92bb">5a2539b</a>
-- <a href="https://github.com/adib-yg/web/commit/dd60bf9bbecbcdb47c1e8106d946f3a19d4c25d8">dd60bf9</a>
-- <a href="https://github.com/adib-yg/web/commit/d1ddff22d29e64e143070ddad7c95c8648cf15b0">d1ddff2</a>
+- <a href="https://github.com/adib-yg/web/commit/8ead32d35981cd40372615f12ce167ab421bd283">8ead32d</a>
+- <a href="https://github.com/adib-yg/web/commit/01293db9d361b1a8f5420e34ebd1e7e295db5ee5">01293db</a>
+- <a href="https://github.com/adib-yg/web/commit/aa59661848a5ff4b5ca2fde0e2f51969eda810c4">aa59661</a>
+- <a href="https://github.com/adib-yg/web/commit/68345091cfb6c96ec3059cdba63abd459d7607c5">6834509</a>
+- <a href="https://github.com/adib-yg/web/commit/fab49e0c7191d9b9af63f2dde9fae1e4c6eef8bb">fab49e0</a>
+- <a href="https://github.com/adib-yg/web/commit/cb16191aafafb264c7a66e7c72bdd40abaed51e1">cb16191</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

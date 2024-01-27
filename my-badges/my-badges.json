@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/cc360c873f8b4daf53d567c805fd375317d079dd\">cc360c8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d95e5d846aeb001b76709d04d22ce017c40ee766\">d95e5d8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/f18c8ef311d7d42fdf997d3e006de846eef12b56\">f18c8ef</a>\n- <a href=\"https://github.com/adib-yg/web/commit/5a2539b351c878db65153a68bc80bad44bac92bb\">5a2539b</a>\n- <a href=\"https://github.com/adib-yg/web/commit/dd60bf9bbecbcdb47c1e8106d946f3a19d4c25d8\">dd60bf9</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d1ddff22d29e64e143070ddad7c95c8648cf15b0\">d1ddff2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/8ead32d35981cd40372615f12ce167ab421bd283\">8ead32d</a>\n- <a href=\"https://github.com/adib-yg/web/commit/01293db9d361b1a8f5420e34ebd1e7e295db5ee5\">01293db</a>\n- <a href=\"https://github.com/adib-yg/web/commit/aa59661848a5ff4b5ca2fde0e2f51969eda810c4\">aa59661</a>\n- <a href=\"https://github.com/adib-yg/web/commit/68345091cfb6c96ec3059cdba63abd459d7607c5\">6834509</a>\n- <a href=\"https://github.com/adib-yg/web/commit/fab49e0c7191d9b9af63f2dde9fae1e4c6eef8bb\">fab49e0</a>\n- <a href=\"https://github.com/adib-yg/web/commit/cb16191aafafb264c7a66e7c72bdd40abaed51e1\">cb16191</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 732 times)\n2. update (used 687 times)\n3. add (used 538 times)\n4. readme.md (used 136 times)\n5. merge (used 30 times)",
+    "body": "My favorite commit message words are:\n\n1. * (used 732 times)\n2. update (used 703 times)\n3. add (used 541 times)\n4. readme.md (used 136 times)\n5. merge (used 33 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
