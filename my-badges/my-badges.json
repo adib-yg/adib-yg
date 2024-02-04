@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/6f6cc8aeab760f6b0af7cc2801cd003bd700f100\">6f6cc8a</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/4fb656090ad0eefc92124001ddbd054cdbadcc54\">4fb6560</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ead32d35981cd40372615f12ce167ab421bd283\">8ead32d</a>\n- <a href=\"https://github.com/adib-yg/web/commit/01293db9d361b1a8f5420e34ebd1e7e295db5ee5\">01293db</a>\n- <a href=\"https://github.com/adib-yg/web/commit/aa59661848a5ff4b5ca2fde0e2f51969eda810c4\">aa59661</a>\n- <a href=\"https://github.com/adib-yg/web/commit/68345091cfb6c96ec3059cdba63abd459d7607c5\">6834509</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/ff5ae909e3c144331fe7fa1ef1c9e40b4ff39ca8\">ff5ae90</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/654ba8b78ed8cbacc1cc63869f31d7a7411e4f8b\">654ba8b</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/6f6cc8aeab760f6b0af7cc2801cd003bd700f100\">6f6cc8a</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/4fb656090ad0eefc92124001ddbd054cdbadcc54\">4fb6560</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ead32d35981cd40372615f12ce167ab421bd283\">8ead32d</a>\n- <a href=\"https://github.com/adib-yg/web/commit/01293db9d361b1a8f5420e34ebd1e7e295db5ee5\">01293db</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 732 times)\n2. update (used 709 times)\n3. add (used 541 times)\n4. readme.md (used 141 times)\n5. merge (used 33 times)",
+    "body": "My favorite commit message words are:\n\n1. * (used 736 times)\n2. update (used 715 times)\n3. add (used 543 times)\n4. readme.md (used 144 times)\n5. merge (used 33 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
