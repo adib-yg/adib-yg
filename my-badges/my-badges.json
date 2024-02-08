@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/ff5ae909e3c144331fe7fa1ef1c9e40b4ff39ca8\">ff5ae90</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/654ba8b78ed8cbacc1cc63869f31d7a7411e4f8b\">654ba8b</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/6f6cc8aeab760f6b0af7cc2801cd003bd700f100\">6f6cc8a</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/4fb656090ad0eefc92124001ddbd054cdbadcc54\">4fb6560</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ead32d35981cd40372615f12ce167ab421bd283\">8ead32d</a>\n- <a href=\"https://github.com/adib-yg/web/commit/01293db9d361b1a8f5420e34ebd1e7e295db5ee5\">01293db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/e7d394e895a0d4be0d449d7388a8b6c800c0790f\">e7d394e</a>\n- <a href=\"https://github.com/adib-yg/web/commit/94e1549104b49fe5b47fd92a3f0ccf8819662323\">94e1549</a>\n- <a href=\"https://github.com/adib-yg/web/commit/eb90493c5c6ce2936703acfd6ce77cb0a44f1fd4\">eb90493</a>\n- <a href=\"https://github.com/adib-yg/web/commit/509fb07cce0630f4f13561395e10bb470b010b4b\">509fb07</a>\n- <a href=\"https://github.com/adib-yg/web/commit/4090a9ab75d4902f93d7dee2d195a56054fb5b10\">4090a9a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6dce7a5ade949e6bbc74836759abf8fa86f12568\">6dce7a5</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -30,8 +30,8 @@
   {
     "id": "favorite-word",
     "tier": 0,
-    "desc": "My favorite word is \"*\".",
-    "body": "My favorite commit message words are:\n\n1. * (used 736 times)\n2. update (used 718 times)\n3. add (used 546 times)\n4. readme.md (used 145 times)\n5. merge (used 33 times)",
+    "desc": "My favorite word is \"update\".",
+    "body": "My favorite commit message words are:\n\n1. update (used 740 times)\n2. * (used 736 times)\n3. add (used 547 times)\n4. readme.md (used 145 times)\n5. merge (used 39 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
@@ -54,5 +54,12 @@
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/wakatime/notepadpp-wakatime/issues/61\">#61</a>: \"Please enter valid Api Key.\" problem",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/polite-coder/polite-coder.png?raw=true"
+  },
+  {
+    "id": "revert-revert-commit",
+    "tier": 0,
+    "desc": "I reverted a revert commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/6dce7a5ade949e6bbc74836759abf8fa86f12568\">6dce7a5</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8cbce5d0cca607e2a33c64a5c14acf0974785fa3\">8cbce5d</a>",
+    "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/revert-revert-commit/revert-revert-commit.png?raw=true"
   }
 ]
