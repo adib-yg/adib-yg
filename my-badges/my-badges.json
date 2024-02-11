@@ -17,21 +17,21 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/e7d394e895a0d4be0d449d7388a8b6c800c0790f\">e7d394e</a>\n- <a href=\"https://github.com/adib-yg/web/commit/94e1549104b49fe5b47fd92a3f0ccf8819662323\">94e1549</a>\n- <a href=\"https://github.com/adib-yg/web/commit/eb90493c5c6ce2936703acfd6ce77cb0a44f1fd4\">eb90493</a>\n- <a href=\"https://github.com/adib-yg/web/commit/509fb07cce0630f4f13561395e10bb470b010b4b\">509fb07</a>\n- <a href=\"https://github.com/adib-yg/web/commit/4090a9ab75d4902f93d7dee2d195a56054fb5b10\">4090a9a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6dce7a5ade949e6bbc74836759abf8fa86f12568\">6dce7a5</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/qawno/commit/8f9f619531dc0c354bdcd889fe9975edb53f7b5d\">8f9f619</a>\n- <a href=\"https://github.com/adib-yg/web/commit/e7d394e895a0d4be0d449d7388a8b6c800c0790f\">e7d394e</a>\n- <a href=\"https://github.com/adib-yg/web/commit/94e1549104b49fe5b47fd92a3f0ccf8819662323\">94e1549</a>\n- <a href=\"https://github.com/adib-yg/web/commit/eb90493c5c6ce2936703acfd6ce77cb0a44f1fd4\">eb90493</a>\n- <a href=\"https://github.com/adib-yg/web/commit/509fb07cce0630f4f13561395e10bb470b010b4b\">509fb07</a>\n- <a href=\"https://github.com/adib-yg/web/commit/4090a9ab75d4902f93d7dee2d195a56054fb5b10\">4090a9a</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0bcb6d65f1c700443a42f6d32a329082e5872400\">0bcb6d6</a>: Fix rows icon\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0c1d744693a736d57efca35119b944d6e55d1d88\">0c1d744</a>: Fix rows icon",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/qawno/commit/8f9f619531dc0c354bdcd889fe9975edb53f7b5d\">8f9f619</a>: Fix \"function heading differs\" error in v1.2.0.2670\n- <a href=\"https://github.com/adib-yg/qawno/commit/8fd6ba51859460f4b361a6df4af998ac272861de\">8fd6ba5</a>: Fixed \"function heading differs from prototype\" error in omp v1.1.0.2612 (#4)\n\n* Fixed \"function heading differs from prototype\" error\r\n\r\n* Fixed \"function heading differs from prototype\" error",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 740 times)\n2. * (used 736 times)\n3. add (used 548 times)\n4. readme.md (used 145 times)\n5. merge (used 41 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 739 times)\n2. * (used 736 times)\n3. add (used 548 times)\n4. readme.md (used 145 times)\n5. merge (used 41 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
