@@ -17,7 +17,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/cfa4a614e18e187164935db441d7f8be8a287062\">cfa4a61</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ed0202ad3cc5db273ceeb8b075e69e98bd7bde5\">8ed0202</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6bdcc3fd023e1b8a76b6073e416723a59da21b87\">6bdcc3f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/a79147ae7f679eb362d2ec91a42340246df33532\">a79147a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/7858324cff856e72101601c4b6445642bda6e957\">7858324</a>\n- <a href=\"https://github.com/adib-yg/web/commit/42e170103f3e35eb2e48776811ebf0ba77fa246b\">42e1701</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/b10087291e02c116773c3920db836ee7f065cc58\">b100872</a>\n- <a href=\"https://github.com/adib-yg/web/commit/cfa4a614e18e187164935db441d7f8be8a287062\">cfa4a61</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ed0202ad3cc5db273ceeb8b075e69e98bd7bde5\">8ed0202</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6bdcc3fd023e1b8a76b6073e416723a59da21b87\">6bdcc3f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/a79147ae7f679eb362d2ec91a42340246df33532\">a79147a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/7858324cff856e72101601c4b6445642bda6e957\">7858324</a>",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/time-of-commit/evening-commits.png?raw=true"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1740 times)\n2. docs: (used 861 times)\n3. add (used 591 times)\n4. readme.md (used 147 times)\n5. merge (used 72 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1741 times)\n2. docs: (used 861 times)\n3. add (used 591 times)\n4. readme.md (used 148 times)\n5. merge (used 72 times)",
     "image": "https://github.com/my-badges/my-badges/blob/master/src/all-badges/favorite-word/favorite-word.png?raw=true"
   },
   {
