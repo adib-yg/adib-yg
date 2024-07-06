@@ -1,15 +1,11 @@
-<img src="https://github.com/my-badges/my-badges/blob/master/src/all-badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
+<img src="https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="128">
 <strong>I did 2 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
-- <a href="https://github.com/adib-yg/qawno/commit/8f9f619531dc0c354bdcd889fe9975edb53f7b5d">8f9f619</a>: Fix "function heading differs" error in v1.2.0.2670
-- <a href="https://github.com/adib-yg/qawno/commit/8fd6ba51859460f4b361a6df4af998ac272861de">8fd6ba5</a>: Fixed "function heading differs from prototype" error in omp v1.1.0.2612 (#4)
-
-* Fixed "function heading differs from prototype" error
-
-* Fixed "function heading differs from prototype" error
+- <a href="https://github.com/adib-yg/openmp-server-browser/commit/0bcb6d65f1c700443a42f6d32a329082e5872400">0bcb6d6</a>: Fix rows icon
+- <a href="https://github.com/adib-yg/openmp-server-browser/commit/0c1d744693a736d57efca35119b944d6e55d1d88">0c1d744</a>: Fix rows icon
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
