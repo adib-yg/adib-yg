@@ -4,90 +4,90 @@
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
     "body": "- <a href=\"https://github.com/adib-yg/web/commit/a3c291239a7778bd460bbf0b95a43a4ee9059192\"><strong>a</strong>3c291239a7778bd460bbf0b95a43a4ee9059192</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/a-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/a4ac99a9b56a9a1c8565e5591ca308e2510198ea\">a4ac99a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0ed2dc8d34c12dcc6f44e16e553c7c08a7caed6f\">0ed2dc8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b5817003624ee6cd8e2c61718a4e1d41372996b8\">b581700</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b35d5e3f639b67e84d31acc5fb56cdb1e2f14cdf\">b35d5e3</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0b74d7466ed96520c69dcad4f6b61301d67306c4\">0b74d74</a>\n- <a href=\"https://github.com/adib-yg/web/commit/26f30ba457b82c5f29c2ea10bdf97291839ccd58\">26f30ba</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/morning-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/9c42fce1852335f98d24f2291a4abaf4d1250224\">9c42fce</a>\n- <a href=\"https://github.com/adib-yg/openmp-server-installation/commit/b10087291e02c116773c3920db836ee7f065cc58\">b100872</a>\n- <a href=\"https://github.com/adib-yg/web/commit/cfa4a614e18e187164935db441d7f8be8a287062\">cfa4a61</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8ed0202ad3cc5db273ceeb8b075e69e98bd7bde5\">8ed0202</a>\n- <a href=\"https://github.com/adib-yg/web/commit/6bdcc3fd023e1b8a76b6073e416723a59da21b87\">6bdcc3f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/a79147ae7f679eb362d2ec91a42340246df33532\">a79147a</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/evening-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0bcb6d65f1c700443a42f6d32a329082e5872400\">0bcb6d6</a>: Fix rows icon\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0c1d744693a736d57efca35119b944d6e55d1d88\">0c1d744</a>: Fix rows icon",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-2.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
     "body": "My favorite commit message words are:\n\n1. update (used 1746 times)\n2. docs: (used 861 times)\n3. add (used 591 times)\n4. readme.md (used 153 times)\n5. merge (used 72 times)",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/favorite-word/favorite-word.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/omp-ipc/commit/9de97f73e840c9ad66fc35ee23c52079d1e9ed69\">9de97f7</a>: fix SVar_GetNameAtIndex and PVar_GetNameAtIndex\n- <a href=\"https://github.com/adib-yg/omp-ipc/commit/5de1b55b49723ed4a8b8cf5f44b7b90d80d737ea\">5de1b55</a>: fix ConsoleVar_GetAsString and ServerVar_GetAsString\n- <a href=\"https://github.com/adib-yg/omp-ipc/commit/d9082d90b516d49392f949c3d903a3ea794d117a\">d9082d9</a>: fix MessageSocket initializer order",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/fix-commit/fix-3.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
     "body": "- <a href=\"https://github.com/adib-yg/web/commit/abd9ed0f5a6f898d080bf65f0058ae8a7bca61fd\"><strong>ab</strong>d9ed0f5a6f898d080bf65f0058ae8a7bca61fd</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/abc-commit/ab-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/wakatime/notepadpp-wakatime/issues/61\">#61</a>: \"Please enter valid Api Key.\" problem",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/polite-coder/polite-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
     "id": "revert-revert-commit",
     "tier": 0,
     "desc": "I reverted a revert commit.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/6dce7a5ade949e6bbc74836759abf8fa86f12568\">6dce7a5</a>\n- <a href=\"https://github.com/adib-yg/web/commit/8cbce5d0cca607e2a33c64a5c14acf0974785fa3\">8cbce5d</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/revert-revert-commit/revert-revert-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/revert-revert-commit.png"
   },
   {
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/137cbba2a946cd25f7099da7755a68ebf4d3d35a\">137cbba</a>\n- <a href=\"https://github.com/adib-yg/web/commit/928a4d5ea157fa8d4d8f5d60936a066a1f354c7f\">928a4d5</a>\n- <a href=\"https://github.com/adib-yg/web/commit/f7c638370a7f0340e0066078fe9203b9b0bfb895\">f7c6383</a>\n- <a href=\"https://github.com/adib-yg/web/commit/253cb6c98a708fda71d68e543e1a64bd28f2efca\">253cb6c</a>\n- <a href=\"https://github.com/adib-yg/web/commit/195ca7fcc2898d3a831c1e9d7c557fa3979c0722\">195ca7f</a>\n- <a href=\"https://github.com/adib-yg/web/commit/e4d7af19e4f95053117d5b4f0ed4a8578a4291a5\">e4d7af1</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/sleepy-coder.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/b9eb3fa9df1cf85016494abc9280eaac31c22dca\">b9eb3fa</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/time-of-commit/midnight-commits.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/adib-yg/web/commit/e94fbfc6afdcd479f84d42528ae7cafee1d688c8\">e94fbfc6afdcd479f84d42528ae7<strong>cafe</strong>e1d688c8</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/cafe-commit/cafe-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/0bfa718014087d34e40b7760bd9cab6d410a7add\">0bfa718</a>\n- <a href=\"https://github.com/adib-yg/web/commit/65abc0bfc37fa76734627850fa72a18ff3a7081f\">65abc0b</a>\n- <a href=\"https://github.com/adib-yg/web/commit/13383e6439553e70f1f6c1ad6ae85b9a3071a16a\">13383e6</a>\n- <a href=\"https://github.com/adib-yg/web/commit/e4b39efd2484c591eccafcb8d587140097d1c34a\">e4b39ef</a>\n- <a href=\"https://github.com/adib-yg/web/commit/f7c638370a7f0340e0066078fe9203b9b0bfb895\">f7c6383</a>\n- <a href=\"https://github.com/adib-yg/web/commit/008c0a8ba618d51d489800a4e1fe2976932d239d\">008c0a8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d870a2c3c8979bae85d69916d1af9fbdeb34d094\">d870a2c</a>\n- <a href=\"https://github.com/adib-yg/web/commit/33988cbe4239fbeee0e3deaa980f7562a56ba18c\">33988cb</a>\n- <a href=\"https://github.com/adib-yg/web/commit/55a5dde11e4d93ce66f3d92df327d984f15440fe\">55a5dde</a>\n- <a href=\"https://github.com/adib-yg/web/commit/eceeddecb6f1ba77a142bcfe9df4ca469661052d\">eceedde</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b8d3c133e91d09dd3669bc7a4e929dc9ee14074f\">b8d3c13</a>",
-    "image": "https://github.com/my-badges/my-badges/blob/master/badges/epic-commit/epic-commit.png?raw=true"
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
