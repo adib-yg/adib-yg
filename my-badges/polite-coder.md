@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/MadeBaruna/paimon-moe/issues/569">#569</a>: Incorrect order for an achievement
 - <a href="https://github.com/wakatime/notepadpp-wakatime/issues/61">#61</a>: "Please enter valid Api Key." problem
 
 
