@@ -32,7 +32,7 @@
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <!-- my-badges end -->
-
+<!--
 ## 😃 Things I use on a daily basis
 
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=github&textfill=000000&fill=ffc0cd)
@@ -40,7 +40,7 @@
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=tiktok&textfill=000000&fill=ffc0cd)](https://tiktok.com/adib_yg)
 [![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=telegram&textfill=000000&fill=ffc0cd)](https://telegram.me/adib_yg)
 ![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=spotify&textfill=000000&fill=ffc0cd)
-<!--
+
 ## 🗃 Active Repositories
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adib-yg&repo=openmp-server-installation&theme=radical)](https://github.com/adib-yg/openmp-server-installation)
