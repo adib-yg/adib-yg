@@ -32,6 +32,7 @@
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
 <a href="my-badges/epic-commit.md"><img src="https://my-badges.github.io/my-badges/epic-commit.png" alt="I made an epic commit with a message over 500 chars." title="I made an epic commit with a message over 500 chars." width="64"></a>
 <!-- my-badges end -->
+
 <!--
 ## 😃 Things I use on a daily basis
 

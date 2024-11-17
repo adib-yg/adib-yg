@@ -10,7 +10,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/a4ac99a9b56a9a1c8565e5591ca308e2510198ea\">a4ac99a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0ed2dc8d34c12dcc6f44e16e553c7c08a7caed6f\">0ed2dc8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b5817003624ee6cd8e2c61718a4e1d41372996b8\">b581700</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b35d5e3f639b67e84d31acc5fb56cdb1e2f14cdf\">b35d5e3</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0b74d7466ed96520c69dcad4f6b61301d67306c4\">0b74d74</a>\n- <a href=\"https://github.com/adib-yg/web/commit/26f30ba457b82c5f29c2ea10bdf97291839ccd58\">26f30ba</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/adib-yg/commit/314f2101e6d52321076fc894ce28abd58c3dd9b8\">314f210</a>\n- <a href=\"https://github.com/adib-yg/web/commit/a4ac99a9b56a9a1c8565e5591ca308e2510198ea\">a4ac99a</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0ed2dc8d34c12dcc6f44e16e553c7c08a7caed6f\">0ed2dc8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b5817003624ee6cd8e2c61718a4e1d41372996b8\">b581700</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b35d5e3f639b67e84d31acc5fb56cdb1e2f14cdf\">b35d5e3</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0b74d7466ed96520c69dcad4f6b61301d67306c4\">0b74d74</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -31,7 +31,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 1856 times)\n2. docs: (used 958 times)\n3. add (used 607 times)\n4. readme.md (used 155 times)\n5. merge (used 75 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 1857 times)\n2. docs: (used 958 times)\n3. add (used 607 times)\n4. readme.md (used 156 times)\n5. merge (used 75 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
