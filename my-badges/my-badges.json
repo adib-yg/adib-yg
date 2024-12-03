@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/adib-yg/web/commit/a3c291239a7778bd460bbf0b95a43a4ee9059192\"><strong>a</strong>3c291239a7778bd460bbf0b95a43a4ee9059192</a>",
+    "body": "- <a href=\"https://github.com/adib-yg/SAMP-RGB-Textdraw/commit/ac08bf51cfcbacf562e7a304b061dd996b26d65f\"><strong>a</strong>c08bf51cfcbacf562e7a304b061dd996b26d65f</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -24,7 +24,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0bcb6d65f1c700443a42f6d32a329082e5872400\">0bcb6d6</a>: Fix rows icon\n- <a href=\"https://github.com/adib-yg/openmp-server-browser/commit/0c1d744693a736d57efca35119b944d6e55d1d88\">0c1d744</a>: Fix rows icon",
+    "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/qawno/commit/8f9f619531dc0c354bdcd889fe9975edb53f7b5d\">8f9f619</a>: Fix \"function heading differs\" error in v1.2.0.2670\n- <a href=\"https://github.com/adib-yg/qawno/commit/8fd6ba51859460f4b361a6df4af998ac272861de\">8fd6ba5</a>: Fixed \"function heading differs from prototype\" error in omp v1.1.0.2612 (#4)\n\n* Fixed \"function heading differs from prototype\" error\r\n\r\n* Fixed \"function heading differs from prototype\" error",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -89,5 +89,19 @@
     "desc": "I made an epic commit with a message over 500 chars.",
     "body": "Commits:\n\n- <a href=\"https://github.com/adib-yg/web/commit/f40d6887be35cdf7f4298275d6530633b02442cb\">f40d688</a>\n- <a href=\"https://github.com/adib-yg/web/commit/0bfa718014087d34e40b7760bd9cab6d410a7add\">0bfa718</a>\n- <a href=\"https://github.com/adib-yg/web/commit/65abc0bfc37fa76734627850fa72a18ff3a7081f\">65abc0b</a>\n- <a href=\"https://github.com/adib-yg/web/commit/13383e6439553e70f1f6c1ad6ae85b9a3071a16a\">13383e6</a>\n- <a href=\"https://github.com/adib-yg/web/commit/e4b39efd2484c591eccafcb8d587140097d1c34a\">e4b39ef</a>\n- <a href=\"https://github.com/adib-yg/web/commit/f7c638370a7f0340e0066078fe9203b9b0bfb895\">f7c6383</a>\n- <a href=\"https://github.com/adib-yg/web/commit/008c0a8ba618d51d489800a4e1fe2976932d239d\">008c0a8</a>\n- <a href=\"https://github.com/adib-yg/web/commit/d870a2c3c8979bae85d69916d1af9fbdeb34d094\">d870a2c</a>\n- <a href=\"https://github.com/adib-yg/web/commit/33988cbe4239fbeee0e3deaa980f7562a56ba18c\">33988cb</a>\n- <a href=\"https://github.com/adib-yg/web/commit/55a5dde11e4d93ce66f3d92df327d984f15440fe\">55a5dde</a>\n- <a href=\"https://github.com/adib-yg/web/commit/eceeddecb6f1ba77a142bcfe9df4ca469661052d\">eceedde</a>\n- <a href=\"https://github.com/adib-yg/web/commit/b8d3c133e91d09dd3669bc7a4e929dc9ee14074f\">b8d3c13</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/openmultiplayer/web/pull/871\">🚀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/adib-yg/adib-yg\">adib-yg/adib-yg</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
